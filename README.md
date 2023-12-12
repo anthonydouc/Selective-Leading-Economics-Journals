@@ -1,0 +1,1 @@
+This folder contains the data, Stata files and code used in the paper Selective and (mis)leading economics journals: Meta-research evidence, by Anthony Doucouliagos, Chris Doucouliagos and T.D. Stanley, accepted for publication in the Journal of Economic Surveys.
